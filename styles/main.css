@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+header {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    background: white;
+    color: black;
+  }
+
+  .banner {
+    text-align: center;
+  }
+
+  .icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+    margin: 16px;
+  }
+
+  button {
+    vertical-align: middle;
+  }
+
+  .sidebar {
+    background-color: #f0f0f0;
+    width: 230px;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+  }
+
