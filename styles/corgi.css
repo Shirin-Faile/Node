@@ -1,0 +1,7 @@
+body {
+    background-image: url('../images/corgi-wallpaper.png');
+    background-size: 70%;
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

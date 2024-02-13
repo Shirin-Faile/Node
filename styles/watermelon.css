@@ -1,0 +1,7 @@
+body {
+    background-image: url('../images/watermelon-wallpaper.png');
+    background-size: cover;
+    background-position: center top 180px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

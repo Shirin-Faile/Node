@@ -6,6 +6,11 @@ html {
     height: 100vh;
 }
 
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
 header {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 10px;
@@ -16,6 +21,12 @@ header {
   .banner {
     text-align: center;
   }
+
+  .banner img {
+    height: auto;
+    max-width: 100%;
+    max-height: 200px;
+}
 
   .icon {
     width: 50px;
@@ -33,6 +44,9 @@ header {
     background-color: #f0f0f0;
     width: 230px;
     padding: 20px;
+    position: absolute;
+    top: 223px;
+    left: 0;
 }
 
 ul {
@@ -44,4 +58,9 @@ ul {
 li {
     list-style-type: none;
   }
+
+  .facts-list {
+    margin-left: 250px;
+    padding: 20px;
+}
 
